@@ -25,7 +25,7 @@
 
 ### Views and Rendering
   - [ ] Activity/Fragment/View lifecycle
-  - [ ]Activity launch modes
+  - [ ] Activity launch modes
   - [ ] Intents (Explicit vs Implicit)
   - [ ] Data sharing between activities, fragments, viewmodels.
   - [ ] View rendering
@@ -66,7 +66,7 @@
 ### Background Ops
   - [ ] Foreground services
   - [ ] WorkManager
-    - WorkManager internals
+    - [ ] WorkManager internals
   - [ ] Bound Service
   - [ ] Push notifications and priority
 
@@ -122,47 +122,55 @@
 ## Security
 
 ### Device
+
   - [ ] Require passcode
   - [ ] Root detection
+
 ### Network 
-	- TLS
-	- SSL Pinning
-	- Host verification
-	- Token
-	- Use SSL
-  - Use network security config
-  - How https works?
+
+	- [ ]  TLS
+	- [ ]  SSL Pinning
+	- [ ] Host verification
+	- [ ] Token
+	- [ ] Use SSL
+  - [ ] Use network security config
+  - [ ] How https works?
+
 ### Data 
-	 - ContentProviders (Don't export)
-	 - Encrypted files
-	 - Encrypted prefs
-	 - Encrypted tokens/keys
-	 - SMS
-	 - Store encrypted data, SQLCipher
-	 - Apply signature level permissions
+
+	 - [ ] ContentProviders (Don't export)
+	 - [ ] Encrypted files
+	 - [ ] Encrypted prefs
+	 - [ ] Encrypted tokens/keys
+	 - [ ] SMS
+	 - [ ] Store encrypted data, SQLCipher
+	 - [ ] Apply signature level permissions
+
 ### Application 
-	 - Code obfuscation
-	 - Require 2FA
-	 - Strong pincodes
-	 - App State Expectations like: VPN, Custom keyboards
-	 - Permissions
-	 - Library
-	 - WebView
-	 - Dynamic code loading
-	 - Implicit Intents
-	 - Apply signature level permissions
+
+	 - [ ] Code obfuscation
+	 - [ ] Require 2FA
+	 - [ ] Strong pincodes
+	 - [ ] App State Expectations like: VPN, Custom keyboards
+	 - [ ] Permissions
+	 - [ ] Library
+	 - [ ] WebView
+	 - [ ] Dynamic code loading
+	 - [ ] Implicit Intents
+	 - [ ] Apply signature level permissions
+
 ### Social engineering
   
 ## Team
-  - Code reviews & Empathy
-  - Mentorship and guidance
-  - Learning initiatives
+  - [ ] Code reviews & Empathy
+  - [ ] Mentorship and guidance
+  - [ ] Learning initiatives
 
 
 ## Product
-  - Product metrics
-  - Tracking success metrics
-  - Balancing business and engineering
+  - [ ] Product metrics
+  - [ ] Tracking success metrics
+  - [ ] Balancing business and engineering
   
 
 

@@ -104,6 +104,39 @@
 ### CI/CD
   - Jenkins
   - Github actions
+
+## Security
+- Device
+  - Require passcode
+  - Root detection
+- Network 
+	- TLS
+	- SSL Pinning
+	- Host verification
+	- Token
+	- Use SSL
+  - Use network security config
+  - How https works?
+- Data 
+	 - ContentProviders (Don't export)
+	 - Encrypted files
+	 - Encrypted prefs
+	 - Encrypted tokens/keys
+	 - SMS
+	 - Store encrypted data, SQLCipher
+	 - Apply signature level permissions
+- Application 
+	 - Code obfuscation
+	 - Require 2FA
+	 - Strong pincodes
+	 - App State Expectations like: VPN, Custom keyboards
+	 - Permissions
+		- Library
+	 - WebView
+	 - Dynamic code loading
+	 - Implicit Intents
+	 - Apply signature level permissions
+- Social engineering
   
 ## Leadership and team player
   - Empathy and PR reviews

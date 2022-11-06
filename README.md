@@ -45,6 +45,7 @@
   - Memory leaks
 
 ### IO
+  - Concurency vs Parallelism
   - Multi-threading
     - Threads
     - Concurrent reads/writes
@@ -120,10 +121,11 @@
   - Gradle cache
 
 ## Security
-- Device
+
+### Device
   - Require passcode
   - Root detection
-- Network 
+### Network 
 	- TLS
 	- SSL Pinning
 	- Host verification
@@ -131,7 +133,7 @@
 	- Use SSL
   - Use network security config
   - How https works?
-- Data 
+### Data 
 	 - ContentProviders (Don't export)
 	 - Encrypted files
 	 - Encrypted prefs
@@ -139,7 +141,7 @@
 	 - SMS
 	 - Store encrypted data, SQLCipher
 	 - Apply signature level permissions
-- Application 
+### Application 
 	 - Code obfuscation
 	 - Require 2FA
 	 - Strong pincodes
@@ -150,10 +152,10 @@
 	 - Dynamic code loading
 	 - Implicit Intents
 	 - Apply signature level permissions
-- Social engineering
+### Social engineering
   
 ## Team
-  - Empathy and PR reviews
+  - Code reviews & Empathy
   - Mentorship and guidance
   - Learning initiatives
 

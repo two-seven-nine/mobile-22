@@ -15,6 +15,7 @@
   - SOLID
   - DRY
   - Composition vs inheritance
+  - Clean architecture and usecases
 
 ### Android Architecture Components
   - ViewModel (How does it work)
@@ -24,6 +25,8 @@
 ### Views and Rendering
   - Activity/Fragment/View lifecycle
   - Activity launch modes
+  - Intents (Explicit vs Implicit)
+  - Data sharing between activities, fragments, viewmodels.
   - View rendering
   
 ### Lists
@@ -67,6 +70,15 @@
   - Sync strategy
   - Offline first
   - Sync conflict strategy
+
+### Networking
+  - OkHttp/Retrofit
+  - Networking without OkHttp/Retrofit
+  - Polling vs Server Push
+  - Websockets
+  - Grpc (https://www.infoq.com/articles/websocket-and-http2-coexist/)
+  - Rest
+  - Handling server errors
 
 ## Stability
   

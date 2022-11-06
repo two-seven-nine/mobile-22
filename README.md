@@ -16,6 +16,7 @@
   - DRY
   - Composition vs inheritance
   - Clean architecture and usecases
+  - Modularisation
 
 ### Android Architecture Components
   - ViewModel (How does it work)
@@ -37,6 +38,7 @@
 ### Images
   - Bitmaps
   - Bitmap Recycling
+  - Image caching
 
 ### Memory
   - Memory allocation
@@ -79,6 +81,15 @@
   - Grpc (https://www.infoq.com/articles/websocket-and-http2-coexist/)
   - Rest
   - Handling server errors
+  - Network caching
+  - Cache headers
+
+### Data persistence
+  - SQLlite performance
+  - SQLite locking (https://www.sqlite.org/lockingv3.html)
+  - ContentProviders
+  - Room 
+
 
 ## Stability
   
@@ -104,6 +115,9 @@
 ### CI/CD
   - Jenkins
   - Github actions
+
+### Build time
+  - Gradle cache
 
 ## Security
 - Device
@@ -138,10 +152,16 @@
 	 - Apply signature level permissions
 - Social engineering
   
-## Leadership and team player
+## Team
   - Empathy and PR reviews
   - Mentorship and guidance
   - Learning initiatives
+
+
+## Product
+  - Product metrics
+  - Tracking success metrics
+  - Balancing business and engineering
   
 
 

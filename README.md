@@ -32,8 +32,10 @@
   
 ### Lists
   - [ ] RecyclerView internals
+  	https://medium.com/android-news/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714
   - [ ] DiffUtil
   - [ ] RecyclerView prefetching
+  	https://medium.com/google-developers/recyclerview-prefetch-c2f269075710
 
 ### Images
   - [ ] Bitmaps
@@ -47,21 +49,23 @@
 ### IO
   - [ ] Concurency vs Parallelism
   - [ ] Multi-threading
-    - Threads
-    - Concurrent reads/writes
-    - Handlers, HandlerThreads
-    - ExecutorService, ThreadManager
-    - Application process and Main thread
+    - [ ] Threads
+    - [ ] Concurrent reads/writes
+    - [ ] Handlers, HandlerThreads
+    - [ ] ExecutorService, ThreadManager
+    - [ ] Application process and Main thread
    
   - [ ] Kotlin Coroutines
-    - One off events
-    - Continuous events
-    - Throttling in continous events
-    - Cancellation policies
-    - CoroutineScope, CoroutineContext, Parent Job+Child Job, CustomScopes
+    - [ ] One off events
+    - [ ] Continuous events
+    - [ ] Throttling in continous events
+    - [ ] Cancellation policies
+    - [ ] CoroutineScope, CoroutineContext, Parent Job+Child Job, CustomScopes
    
   - [ ] RxJava
-    - Observable design patterns.
+    - [ ] Observable design patterns
+    - [ ] Operators, flatmap, map, zip, combineLatest
+    - [ ] Backpressue strategies
 
 ### Background Ops
   - [ ] Foreground services
@@ -128,49 +132,49 @@
 
 ### Network 
 
-	- [ ]  TLS
-	- [ ]  SSL Pinning
-	- [ ] Host verification
-	- [ ] Token
-	- [ ] Use SSL
-  - [ ] Use network security config
-  - [ ] How https works?
+- [ ]  TLS
+- [ ]  SSL Pinning
+- [ ] Host verification
+- [ ] Token
+- [ ] Use SSL
+- [ ] Use network security config
+- [ ] How https works?
 
 ### Data 
 
-	 - [ ] ContentProviders (Don't export)
-	 - [ ] Encrypted files
-	 - [ ] Encrypted prefs
-	 - [ ] Encrypted tokens/keys
-	 - [ ] SMS
-	 - [ ] Store encrypted data, SQLCipher
-	 - [ ] Apply signature level permissions
+ - [ ] ContentProviders (Don't export)
+ - [ ] Encrypted files
+ - [ ] Encrypted prefs
+ - [ ] Encrypted tokens/keys
+ - [ ] SMS
+ - [ ] Store encrypted data, SQLCipher
+ - [ ] Apply signature level permissions
 
 ### Application 
 
-	 - [ ] Code obfuscation
-	 - [ ] Require 2FA
-	 - [ ] Strong pincodes
-	 - [ ] App State Expectations like: VPN, Custom keyboards
-	 - [ ] Permissions
-	 - [ ] Library
-	 - [ ] WebView
-	 - [ ] Dynamic code loading
-	 - [ ] Implicit Intents
-	 - [ ] Apply signature level permissions
+ - [ ] Code obfuscation
+ - [ ] Require 2FA
+ - [ ] Strong pincodes
+ - [ ] App State Expectations like: VPN, Custom keyboards
+ - [ ] Permissions
+ - [ ] Library
+ - [ ] WebView
+ - [ ] Dynamic code loading
+ - [ ] Implicit Intents
+ - [ ] Apply signature level permissions
 
 ### Social engineering
   
 ## Team
-  - [ ] Code reviews & Empathy
-  - [ ] Mentorship and guidance
-  - [ ] Learning initiatives
+- [ ] Code reviews & Empathy
+- [ ] Mentorship and guidance
+- [ ] Learning initiatives
 
 
 ## Product
-  - [ ] Product metrics
-  - [ ] Tracking success metrics
-  - [ ] Balancing business and engineering
-  
+- [ ] Product metrics
+- [ ] Tracking success metrics
+- [ ] Balancing business and engineering
+
 
 

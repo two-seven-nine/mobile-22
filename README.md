@@ -47,6 +47,7 @@
   - [ ] Activity/Fragment lifecycle
   - [ ] [View lifecycle](https://proandroiddev.com/the-life-cycle-of-a-view-in-android-6a2c4665b95e)
   - [ ] [Activity launch modes](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+  - [ ] [Tasks and backstack](https://medium.com/androiddevelopers/tasks-and-the-back-stack-dbb7c3b0f6d4)
   - [ ] Intents (Explicit vs Implicit) & Intent filters
   - [ ] Data sharing between activities, fragments, viewmodels.
   - [ ] View rendering

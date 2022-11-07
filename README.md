@@ -15,6 +15,7 @@
   - [ ] out by, in by
   - [ ] interface delegation
   - [ ] lazy vs lateinit
+  - [ ] (Scope functions)[https://www.digitalocean.com/community/tutorials/kotlin-let-run-also-apply-with]
 
 ### Architecture
   - [ ] MVVM
